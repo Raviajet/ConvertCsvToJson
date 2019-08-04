@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: csv-json
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ravitejapapasani
+Implementation-Vendor-Id: com.papasani.learnings
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/csv-json
+Created-By: Maven Integration for Eclipse
+
